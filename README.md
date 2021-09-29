@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mitchell
+- 👀 I’m interested in anything related to software development
+- 🌱 I’m currently studying IT at Swinburne University. I am currently learning web development, testing and data management.
+- 💞️ I’m looking for any internship oppurtunites.
+- 📫 My linkedin: https://www.linkedin.com/in/mitchell-anton-824703216/detail/contact-info/
