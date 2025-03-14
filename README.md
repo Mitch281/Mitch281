@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mitchell.
 - 👀 I’m interested in anything related to software development.
-- 🌱 I have completed a masters of Information Technology with a Software Development Specialisation at Swinburne Unibersity.
+- 🌱 I have completed a masters of Information Technology with a Software Development Specialisation at Swinburne University.
 - 💞️ I’m looking for any software development job oppurtunites.
 - 📫 linkedin: https://www.linkedin.com/in/mitchell-anton-824703216/
